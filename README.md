@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <ul>
 <li>Role and Permission</li>
 <li>Unit/Building CRUD</li>
@@ -14,3 +15,6 @@
 <li>Admin system</li>
 <li>SuperAdmin Dashboard</li>
 </ul>
+=======
+# gift-smart-id-card
+>>>>>>> 2010420534d0d78425ec5f4f3e91b9109cd3f615
